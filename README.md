@@ -1,4 +1,4 @@
-# Project Name
+# HDInsight enterprise security template
 
 Resource Manager templates for creating Azure HDInsight clusters with encryption in transit enabled.
 
@@ -6,8 +6,8 @@ Resource Manager templates for creating Azure HDInsight clusters with encryption
 
 Replace occurences of the following values with the correct information for your environment:
 
-* <SUBSCRIPTION_ID> - replace with your Azure subscription ID
-* <PASSWORD> - replace with your chosen password for cluster login and ssh login
+* `<SUBSCRIPTION_ID>` - replace with your Azure subscription ID
+* `<PASSWORD>` - replace with your chosen password for cluster login and ssh login
 
 
 ## Resources
