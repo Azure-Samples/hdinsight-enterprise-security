@@ -271,7 +271,8 @@
         "/subscriptions/8360c904-55c1-45c7-b877-225ae2a11876/resourceGroups/weustorage",
         "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS"
+        "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
+        "/subscriptions/8360c904-55c1-45c7-b877-225ae2a11876/resourceGroups/westeustorage"
     ],
     "France Central":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
