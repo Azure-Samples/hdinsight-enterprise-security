@@ -1,13 +1,10 @@
-# HDInsight enterprise security template
+# HDInsight enterprise security
 
-Resource Manager templates for creating Azure HDInsight clusters with encryption in transit enabled.
+Resource Manager templates for creating Azure HDInsight clusters with different security features.
 
 ## Using the templates
 
-Replace occurences of the following values with the correct information for your environment:
-
-* `<SUBSCRIPTION_ID>` - replace with your Azure subscription ID
-* `<PASSWORD>` - replace with your chosen password for cluster login and ssh login
+Fill in the parameters based on the correct information for your environment.
 
 
 ## Resources
