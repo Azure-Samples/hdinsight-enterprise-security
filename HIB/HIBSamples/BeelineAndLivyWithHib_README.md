@@ -1,4 +1,4 @@
-#Pre Setup
+# Pre Setup
 - Get the Ubuntu VM 16.04 (Same vnet as the clusters) 
 - Configure /etc/resolv.conf in the VM to include the AAD DS domain name as a search domain 
 	- Ping headnodes with hostnames to make sure that DNS works 
@@ -36,7 +36,7 @@
 	- mvn package
 - scp target/oauthwithhib-1.0-SNAPSHOT-jar-with-dependencies.jar <username>@<VMIP>:
 
-#Launching Beeline from the VM
+# Launching Beeline from the VM
 - Build the beelinewithhib model from repo (using ubuntu on widows or IDE with sudo user), copy the required jar files to the VM
 	- cd src/beelinewithhib 
 	- mvn package  
@@ -46,7 +46,7 @@
 - Note: The script expects the required jars placed under /home/<username>, if the jars location is different please update the script before running
 - Note: In case of gateway or authorization errors, the error message will be displayed and the beeline connection attempt would exit
 
-#Launching Livy from the VM
+# Launching Livy from the VM
 - Build the livywithhib model from repo (using ubuntu on widows or IDE with sudo user), copy the required jar files to the VM
 	- cd src/livywithhib 
 	- mvn package  
