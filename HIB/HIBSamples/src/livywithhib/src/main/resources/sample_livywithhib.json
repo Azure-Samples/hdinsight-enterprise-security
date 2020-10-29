@@ -1,0 +1,14 @@
+{
+  "name": "Spark 1+1 Livy",
+  "file": "https://hibsamples.blob.core.windows.net/livy/OneplusOneApp-1.0.jar",
+  "className": "com.microsoft.spark.example.OneplusOneApp",
+  "files": [],
+  "args": [],
+  "conf": {
+    "numExecutors": "3",
+    "driverMemory": "512m",
+    "executorMemory": "512m",
+    "executorCores": "1",
+    "spark.yarn.maxAppAttempts": "1"
+  }
+}
