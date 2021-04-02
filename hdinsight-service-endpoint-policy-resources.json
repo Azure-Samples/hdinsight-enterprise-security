@@ -6,7 +6,10 @@
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/7ec0e1e0-1cc3-4323-89b5-c70b1fd378fc/resourceGroups/Default-Storage-CanadaEast",
-        "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS"
+        "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
+
     ],
     "Canada Central":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -14,7 +17,9 @@
         "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/c8845df8-14d1-4a46-b6dd-e0c44ae400b0/resourceGroups/Default-Storage-CanadaCentral",
         "/subscriptions/c8845df8-14d1-4a46-b6dd-e0c44ae400b0/resourceGroups/cancstorage",
-        "/subscriptions/c8845df8-14d1-4a46-b6dd-e0c44ae400b0/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/c8845df8-14d1-4a46-b6dd-e0c44ae400b0/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Central US" :[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -31,7 +36,9 @@
         "/subscriptions/96760e93-de0b-492d-8987-e767bbc9b122/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/25a98504-c574-46f7-b00e-f9a50300e787/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/11000a0d-6005-4c90-9692-7961bf1965ab/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/ce832044-7da2-453a-9c89-668f35f72152/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/ce832044-7da2-453a-9c89-668f35f72152/resourceGroups/GenevaWarmPathManageRG",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "East US":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -48,7 +55,9 @@
         "/subscriptions/154e7f2c-cb78-4897-a817-ebe3396388fd/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/fc32cbf3-10f8-406a-b1ef-2c50157a133f/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/abe48551-c98b-4263-97b3-098a4c35bc08/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/ed2f2b83-af82-4a5f-9ca8-a4592a7f2927/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/ed2f2b83-af82-4a5f-9ca8-a4592a7f2927/resourceGroups/GenevaWarmPathManageRG",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "East US 2":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -68,7 +77,9 @@
         "/subscriptions/863b33e5-2691-43cd-aecb-2592f97cab25/resourceGroups/eus2storage",
         "/subscriptions/46c5358b-aac2-475f-94fb-15c420d96c78/resourceGroups/eus2storage",
         "/subscriptions/036373db-f7c8-4cbd-b09a-7450c5b7916b/resourceGroups/eus2storage",
-        "/subscriptions/b4c77f90-fe6a-4320-a59c-7c0582080432/resourceGroups/eus2storage"
+        "/subscriptions/b4c77f90-fe6a-4320-a59c-7c0582080432/resourceGroups/eus2storage",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "North Central US":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -85,7 +96,9 @@
         "/subscriptions/5459b7ee-29ad-4dab-afdc-294bb5f8cfb2/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/fa968076-f6e4-4647-b678-af8a9015d311/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/3415081a-4bc1-4bd8-9c46-7214a409b13d/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/30f4f060-de3b-4f33-9d51-4af2c9fb3be4/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/30f4f060-de3b-4f33-9d51-4af2c9fb3be4/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "South Central US":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -105,7 +118,9 @@
         "/subscriptions/ed2f2b83-af82-4a5f-9ca8-a4592a7f2927/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/aa858381-0720-4837-b0f8-60468c0b2763/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/81d9bf8c-3d30-43b7-8054-02c1235530bd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/b4c77f90-fe6a-4320-a59c-7c0582080432/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/b4c77f90-fe6a-4320-a59c-7c0582080432/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "West Central US":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -113,7 +128,9 @@
         "/subscriptions/175cc615-3f5f-4637-957f-f313b3d67e82/resourceGroups/Default-Storage-WestCentralUS",
         "/subscriptions/175cc615-3f5f-4637-957f-f313b3d67e82/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "West US":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -130,7 +147,9 @@
         "/subscriptions/53b34899-ad65-4508-bd35-d8d7efc28192/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/81d9bf8c-3d30-43b7-8054-02c1235530bd/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/b3e5be4a-4c34-40a8-81e8-26272fa123c2/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/52a39e2a-b99a-4a8a-8b63-b3576e624a38/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/52a39e2a-b99a-4a8a-8b63-b3576e624a38/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "West US 2":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -142,6 +161,8 @@
         "/subscriptions/f0b2135d-ebd1-443b-a132-a3e1f102c550/resourceGroups/Default-Storage-WestUS2",
         "/subscriptions/1bfec58d-a855-499d-92c3-aaa4e7266f74/resourceGroups/wus2storage",
         "/subscriptions/f0b2135d-ebd1-443b-a132-a3e1f102c550/resourceGroups/wus2storage",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "South Africa North":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -149,7 +170,9 @@
         "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/21754df6-f473-4897-82b7-e3ae2ba86f2e/resourceGroups/Default-Storage-SouthAfricaNorth",
         "/subscriptions/21754df6-f473-4897-82b7-e3ae2ba86f2e/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/21754df6-f473-4897-82b7-e3ae2ba86f2e/resourceGroups/safnstorage",
+        "/subscriptions/21754df6-f473-4897-82b7-e3ae2ba86f2e/resourceGroups/safnstorage", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
    
     "East Asia":[
@@ -167,7 +190,9 @@
         "/subscriptions/2510f3c8-ce2c-4eb4-8e8f-dc26cedcc95d/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/3491f531-ac4f-49ac-9c1b-61a9a8070998/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Southeast Asia":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -184,7 +209,9 @@
         "/subscriptions/0f78ee0c-6102-49a5-8fe7-ba10e1d7ebae/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/0fba3b71-12aa-4634-be6a-815fe817b157/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
 
     ],
     "Australia Central":[
@@ -193,7 +220,9 @@
         "/subscriptions/d18f55fd-d82c-484f-a96f-04a9ae3a14b0/resourceGroups/aucestorage",
         "/subscriptions/d18f55fd-d82c-484f-a96f-04a9ae3a14b0/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
 
     ],
 
@@ -212,7 +241,9 @@
         "/subscriptions/44dd6668-702a-4738-87fc-44df1e9916b8/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/eceee536-1712-45cd-be4f-e7360db08971/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Australia Southeast":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -229,7 +260,9 @@
         "/subscriptions/44dd6668-702a-4738-87fc-44df1e9916b8/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/eceee536-1712-45cd-be4f-e7360db08971/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Brazil South":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -237,7 +270,9 @@
         "/subscriptions/d986fc79-5677-4fbd-aab4-337dc75e810a/resourceGroups/brsstorage",
         "/subscriptions/d986fc79-5677-4fbd-aab4-337dc75e810a/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "North Europe":[
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
@@ -254,7 +289,9 @@
         "/subscriptions/7f58b37c-f553-4fd9-a489-f1929c835e9b/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/c5ff09eb-925e-462d-b2cc-56741bc8967e/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/7f078a4c-cc99-4c2c-8833-f728b6ad793c/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS"
+        "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "West Europe":[
         "/subscriptions/5e254307-aa22-440c-831b-ed9980422844/resourceGroups/GenevaWarmPathManageRG",
@@ -272,7 +309,9 @@
         "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
-        "/subscriptions/8360c904-55c1-45c7-b877-225ae2a11876/resourceGroups/westeustorage"
+        "/subscriptions/8360c904-55c1-45c7-b877-225ae2a11876/resourceGroups/westeustorage",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "France Central":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -280,7 +319,9 @@
         "/subscriptions/b2e81e5f-d636-4092-917f-af5de2f8c717/resourceGroups/frcestorage",
         "/subscriptions/b2e81e5f-d636-4092-917f-af5de2f8c717/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     
     "Germany West":[
@@ -289,7 +330,9 @@
         "/subscriptions/d1d09b34-bf46-4f20-a617-16903ca9bf22/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/d1d09b34-bf46-4f20-a617-16903ca9bf22/resourceGroups/gewcstorage",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "South India":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -297,7 +340,9 @@
         "/subscriptions/04c28ea1-0e8f-47e5-9617-2ce62489ecad/resourceGroups/insostorage",
         "/subscriptions/04c28ea1-0e8f-47e5-9617-2ce62489ecad/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Central India":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -305,7 +350,9 @@
         "/subscriptions/f4ba91da-cd82-404d-b8bb-414eff82987e/resourceGroups/indiacentralstorage",
         "/subscriptions/f4ba91da-cd82-404d-b8bb-414eff82987e/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
 
     ],
     "Japan East":[
@@ -323,7 +370,9 @@
         "/subscriptions/2f95f858-e5c2-4a1a-919e-72993fcd0214/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/ecdc4283-ae8b-4aaf-8e38-656ffea01d5d/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
 
     ],
     "Japan West":[
@@ -341,7 +390,9 @@
         "/subscriptions/06c42be4-e7a8-4c49-b91e-847534cd5382/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/26807c89-6f0e-4be4-846d-57bbea19b16b/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Korea Central":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -349,7 +400,9 @@
         "/subscriptions/644a4242-7d58-43f5-aa91-ce1bb5ed637f/resourceGroups/kocestorage",
         "/subscriptions/644a4242-7d58-43f5-aa91-ce1bb5ed637f/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Korea South":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -357,7 +410,9 @@
         "/subscriptions/783b9e11-ec6f-439c-85d4-17f41e9ec9e5/resourceGroups/Default-Storage-KoreaSouth",
         "/subscriptions/783b9e11-ec6f-439c-85d4-17f41e9ec9e5/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Switzerland North":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -365,7 +420,9 @@
         "/subscriptions/b9bb17b4-51b3-40fc-9a25-2900b6d8c0f2/resourceGroups/swnostorage",
         "/subscriptions/b9bb17b4-51b3-40fc-9a25-2900b6d8c0f2/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "Switzerland West":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -373,7 +430,9 @@
         "/subscriptions/805977ae-8d8b-49f6-bd52-6f58260c0fa7/resourceGroups/Default-Storage-SwitzerlandWest",
         "/subscriptions/805977ae-8d8b-49f6-bd52-6f58260c0fa7/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG", 
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "UAE North":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -381,7 +440,9 @@
         "/subscriptions/8455a4aa-5402-4bd9-9012-a90093994e57/resourceGroups/uaenstorage",
         "/subscriptions/8455a4aa-5402-4bd9-9012-a90093994e57/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "UK South":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -389,7 +450,9 @@
         "/subscriptions/dc92e8d2-7fe3-4fce-8fa7-58f1d61db916/resourceGroups/uksstorage",
         "/subscriptions/dc92e8d2-7fe3-4fce-8fa7-58f1d61db916/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "UK West":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
@@ -397,7 +460,9 @@
         "/subscriptions/005659c3-e8e2-4fd6-8fe5-2c9bb1c584ad/resourceGroups/GenevaWarmPathManageRG",
         "/subscriptions/005659c3-e8e2-4fd6-8fe5-2c9bb1c584ad/resourceGroups/ukwstorage",
         "/subscriptions/da0c4c68-9283-4f88-9c35-18f7bd72fbdd/resourceGroups/GenevaWarmPathManageRG",
-        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG"
+        "/subscriptions/6a853a41-3423-4167-8d9c-bcf37dc72818/resourceGroups/GenevaWarmPathManageRG",  
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/hdi31distrorelease",
+        "/subscriptions/fb3429ab-83d0-4bed-95e9-1a8e9455252c/resourceGroups/DistroStorageRG/providers/Microsoft.Storage/storageAccounts/bigdatadistro"
     ],
     "US DoD Central":[
         "/subscriptions/235d341f-7fb9-435c-9bdc-034b7306c9b4/resourceGroups/Default-Storage-WestUS",
